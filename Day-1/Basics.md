@@ -21,6 +21,6 @@
     <li>The Education Special Interest Group is a good place to discuss teaching issues.</li>   
    </ul>
 - Desktop GUIs
-  <ul>
-    <li>(Tk)[https://wiki.python.org/moin/TkInter]</li>
-  </ul>
+- (Tk)[https://wiki.python.org/moin/TkInter],(wxWidgets)[https://www.wxpython.org/],Qt via (pyqt) 
+  [https://riverbankcomputing.com/software/pyqt/intro] or (pyside)[https://wiki.qt.io/Qt_for_Python]
+  
