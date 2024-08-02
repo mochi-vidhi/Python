@@ -15,3 +15,12 @@
     <li>SciPy is a collection of packages for mathematics, science, and engineering </li>
     <li>Pandas is a data analysis and modeling library.</li>
   </ul>
+- Education
+  <ul>
+    <li>Books such as How to Think Like a Computer Scientist, Python Programming: An Introduction to Computer Science, and Practical Programming.
+    <li>The Education Special Interest Group is a good place to discuss teaching issues.</li>   
+   </ul>
+- Desktop GUIs
+  <ul>
+    <li>(Tk)[https://wiki.python.org/moin/TkInter]</li>
+  </ul>
