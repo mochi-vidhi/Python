@@ -3,8 +3,10 @@
 - runs everywhere;
 - is friendly & easy to learn;
 - is Open
-- It is a general-purpose language, but it is often used as a server-side scripting language. 
-# Applications of Python:
+- It is a general-purpose language, but it is often used as a server-side scripting language.
+<hr>
+
+## Applications of Python:
 ### Web and Internet Development
   <ul>
     <li> Frameworks such as Django and Pyramid.</li>
@@ -38,6 +40,8 @@
 ### Business Applications
 - [Odoo](https://www.odoo.com/) is an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications.
 - [Tryton](https://www.tryton.org/) is a three-tier high-level general purpose application platform.</li>
+<hr>
+
 ## Disadvantages of Python
 <ul>
 <li>Python is Slow at Runtime</li>
