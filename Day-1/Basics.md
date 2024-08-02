@@ -36,6 +36,16 @@
   </ul>
   
 ### Business Applications
-  [Odoo](https://www.odoo.com/) is an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications.
-[Tryton](https://www.tryton.org/) is a three-tier high-level general purpose application platform.</li>
+- [Odoo](https://www.odoo.com/) is an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications.
+- [Tryton](https://www.tryton.org/) is a three-tier high-level general purpose application platform.</li>
+## Disadvantages of Python
+<ul>
+<li>Python is Slow at Runtime</li>
+<li>Mobile Application Development</li>
+<li>Difficulty in Using Other Languages</li>
+<li>High Memory Consumption</li>
+<li>Not used in the Enterprise Development Sector</li>
+<li>Runtime Errors</li>
+<li>Simplicity</li>
+</ul>
  
