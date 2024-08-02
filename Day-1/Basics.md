@@ -35,3 +35,8 @@
       <li>Roundup or Trac for bug tracking and project management.</li>
   </ul>
   
+### Business Applications
+  <ul>
+    <li>[Odoo](https://www.odoo.com/) is an all-in-one management software that offers a range of business applications that form a complete suite of enterprise management applications.</li>
+<li>[Tryton](https://www.tryton.org/) is a three-tier high-level general purpose application platform.</li>
+  </ul>
