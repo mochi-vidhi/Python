@@ -13,5 +13,23 @@
 4. Set
 5. Dictionary
 6. Binary Types( memoryview, bytearray, bytes)
+<hr>
 
+1. Numeric Data Types in Python
+- Represents the data that has a numeric value.
+  <ul>
+    <li>an integer</li>
+    <li>a floating number</li> 
+    <li> a complex number</li>
+  </ul>
+- These values are defined as Python int, Python float, and Python complex classes in Python.
+### Syntax
+1. int data-type
+-  positive or negative whole numbers (without fractions or decimals).
+-  In Python, there is no limit to how long an integer value can be.
+- <b> long int & sort int is not available in python3 but in python2 long is availabe.</b>
+```
+x = 12
+y = 45333333333
+```
 
