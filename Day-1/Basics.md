@@ -52,4 +52,12 @@
 <li>Runtime Errors</li>
 <li>Simplicity</li>
 </ul>
+
+## Run python code on Windows
+```
+python file_name.py
+Ex. python hello.py
+```
+
+
  
