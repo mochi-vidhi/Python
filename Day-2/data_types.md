@@ -8,7 +8,7 @@
 <hr>
 
 1. Numeric
-2. Sequence Type
+2. Sequence Type(string,list,tuple)
 3. Boolean
 4. Set
 5. Dictionary
