@@ -32,5 +32,19 @@
 x = 12
 y = 45333333333
 ```
-2. 
+2.float data-type
+- This value is represented by the float class.
+-  It is a real number with a floating-point representation.
+-  It is specified by a decimal point.
+```
+x = 23.45677
+```
+3. Complex Numbers
+- A complex number is represented by a complex class.
+- It is specified as (real part) + (imaginary part)j.
+```
+ For example – 2+3j
+```
+<b>Note – type() function is used to determine the type of Python data type. </b>
+
 
