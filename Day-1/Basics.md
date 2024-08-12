@@ -58,6 +58,39 @@
 python file_name.py
 Ex. python hello.py
 ```
+<hr>
+
+## Input & output:
+- print(): This function is used to print the output.
+- <b>Syntax : </b>
+```
+print("Hello World!!")
+```
+Syntax2: Inside the print() end the element with  '-'.
+```
+l1 = [1,2,3,4]
+for x in l1:
+    print(x , end"-")
+```
+Output:
+1-2-3-4-
+```
+```
+- input() : This function is used to take input from user.
+- This function by defualt return the string.
+- If we want to convert any other data type so we can do using type casting.
+- Inside the input() we give the message that is display in ouput.
+- <b> Syntax: </b>
+```
+x = input("Enter Element:)
+```
+```
+x = int(input("Enter Element:")) <---- internal type - casting.
+```
+```
+x = input("Enter Element:")
+x = int(x) <---- External type - casting.
+```
 
 
  
