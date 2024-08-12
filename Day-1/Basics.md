@@ -72,9 +72,9 @@ l1 = [1,2,3,4]
 for x in l1:
     print(x , end"-")
 ```
+```
 Output:
 1-2-3-4-
-```
 ```
 - input() : This function is used to take input from user.
 - This function by defualt return the string.
